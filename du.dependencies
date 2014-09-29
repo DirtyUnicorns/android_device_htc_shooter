@@ -1,0 +1,33 @@
+[
+  {
+    "remote":       "du",
+    "repository":   "android_hardware_qcom_media-legacy",
+    "target_path":  "hardware/qcom/media-legacy",
+    "revision":     "du44"
+  },
+  {
+    "remote":       "du",
+    "repository":   "android_device_htc_shooter-common",
+    "target_path":  "device/htc/shooter-common",
+    "revision":     "du44"
+  },
+  {
+    "remote":       "du",
+    "repository":   "android_device_htc_msm8660-common",
+    "target_path":  "device/htc/msm8660-common",
+    "revision":     "du44"
+  },
+  {
+    "remote":       "du",
+    "repository":   "android_kernel_htc_msm8660-caf",
+    "target_path":  "kernel/htc/msm8660-caf",
+    "revision":     "du44"
+  },
+  {
+    "remote":       "du",
+    "repository":   "android_vendor_htc",
+    "target_path":  "vendor/htc",
+    "revision":     "du44"
+  }
+
+]
